@@ -37,7 +37,7 @@
 
 |   |          | 내용                                                        | 강의시간 |
 | ------- | -------- | ----------------------------------------------------------- | -------- |
-|         |          | CHAPTER 1. Motivations and Basics                           | 1:16:15  |
+|         |          | CHAPTER 1. Motivations and Basics[Link](https://github.com/Jung0Jin/kaist_ml/blob/main/CHAPTER1.md)                           | 1:16:15  |
 | Study1  | 21/01/17 | 1.1. Motivations                                            | 16:29    |
 | Study1  | 21/01/17 | 1.2. MLE                                                    | 21:17    |
 | Study1  | 21/01/17 | 1.3. MAP                                                    | 15:36    |
