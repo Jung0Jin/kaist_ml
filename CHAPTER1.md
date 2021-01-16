@@ -159,3 +159,89 @@ $$
 
 - 압정 던지기가 50:50 이지 않을까? 라는 사전 정보를 넣으면 어떻게 될까?
 
+![캡처](https://user-images.githubusercontent.com/59161837/104811096-881fce80-583c-11eb-8db2-df0e6e1a3654.PNG)
+
+- P(D): 데이터가 존재할 확률
+- P(theta): theta에 대한 사전 정보
+- P(D|theta): theta가 주어졌을 때 데이터가 존재할 확률
+- P(theta|D): 데이텅가 주어졌을 때 theta일 확률
+  - P(theta): theta에 대한 사전 정보: Prior Knowledge 이게 중요하다
+- 이제 50:50 이지 않을까? 라는 사전 정보를 Prior Knowledge로 넣어보자
+
+### More Formula from Bayes Viewpoint
+
+![캡처2](https://user-images.githubusercontent.com/59161837/104811228-80acf500-583d-11eb-993b-19155086c8ae.PNG)
+
+- P(D)는 이미 일어난 것, 어떻게 할 수가 없다. 그래서 Normalizing Constant다. 즉, theta가 바뀌는 것에 영향을 받지 않는다. 이걸 빼고 수식을 보자.
+- P(theta)는 어떻게 표현할까? 그냥 50:50으로 표현하면 될까?
+  - 어떤 distribution에 의존해서 표현해야한다.
+    - Beta distribution: 두 매개변수 alpha, beta에 따라 [0,1] 구간에서 정의되는 연속 확률 분포다.
+
+### Maximum a Posteriori Estimation
+
+- MLE는 P(D|theta)의 argmax인 theta를 찾는 것, MAP는 P(theta|D)의 argmax인 theta를 찾는 것이다.
+
+![캡처3](https://user-images.githubusercontent.com/59161837/104812576-7f33fa80-5846-11eb-9f2f-72f1cbb00013.PNG)
+
+
+
+- MLE에서는 사전 정보를 넣을 수 없었지만, MAP에서는 사전 정보를 넣을 수 있다
+
+### Conclusion from Anecdote
+
+![캡처4](https://user-images.githubusercontent.com/59161837/104812609-befae200-5846-11eb-98ab-d27ac989c139.PNG)
+
+
+
+- 실험 횟수를 많이 반복할수록 MLE는 MAP와 같아진다.
+
+## 1.4. Probability and Distribution
+
+- Link: https://kooc.kaist.ac.kr/machinelearning1_17/lecture/10577/
+- MLE는 사전 지식 없이 데이터를 중심으로 theta라고 하는 파라미터를 알아보는 것
+- MAP는 사전 지식을 알고 있다고 가정해서 확률을 추정하는 것
+- 결국 둘 다 확률을 알아보는 것이니 우리는 확률 자체를 알아봐야한다.
+
+### Probability
+
+### Conditional Probability
+
+![캡처5](https://user-images.githubusercontent.com/59161837/104812736-97584980-5847-11eb-813d-bd82b890099c.PNG)
+
+### Probability Distribution
+
+### Normal Distribution
+
+### Beta Distribution
+
+- 범위가 딱 정해져 있을 때 Beta Distribution을 쓸 수 있다. 확률은 [0,1]사이에 값이 떨어지기 때문에 Beta Distribtution을 쓸 수 있다.
+
+![캡처6](https://user-images.githubusercontent.com/59161837/104812779-eef6b500-5847-11eb-949d-b22e9f9c36e6.PNG)
+
+### Binomial Distribution
+
+![캡처7](https://user-images.githubusercontent.com/59161837/104812796-0f267400-5848-11eb-838a-8fdb595aca33.PNG)
+
+### Multinomial Distribution
+
+![캡처8](https://user-images.githubusercontent.com/59161837/104812810-282f2500-5848-11eb-8cdf-964d3eec53d0.PNG)
+
+- 앞 / 뒤 에서 끝나는게 아니고, 앞 / 뒤 / 옆 이면 Multinomial Distribution이 필요하다.
+- The generalization of the binomial distribution: binomial distribution을 일반화 했다.
+
+## Ch1. Quiz
+
+![캡처9](https://user-images.githubusercontent.com/59161837/104812961-434e6480-5849-11eb-9fcb-7edb404e33b1.PNG)
+
+
+
+
+
+
+
+
+
+
+
+
+
