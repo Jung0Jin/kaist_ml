@@ -43,7 +43,7 @@
 | Study1  | 21/01/17 | 1.3. MAP                                                    | 15:36    |
 | Study1  | 21/01/17 | 1.4. Probability and Distribution                           | 22:53    |
 |         |          | Ch1. Quiz                                                   |          |
-|         |          | CHAPTER 2. Fundamentals of Machine Learning                 | 1:38:11  |
+|         |          | [CHAPTER 2. Fundamentals of Machine Learning](https://github.com/Jung0Jin/kaist_ml/blob/main/CAHPTER2.md)                 | 1:38:11  |
 | Study2  | 21/01/24 | 2.1. Rule Based Machine Learning Overview                   | 17:30    |
 | Study2  | 21/01/24 | 2.2. Introduction to Rule Based Algorithm                   | 24:10:00 |
 | Study2  | 21/01/24 | 2.3. Introduction to Decision Tree                          | 9:14     |
