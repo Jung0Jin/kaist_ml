@@ -71,7 +71,7 @@
 | Study6  | 21/02/21 | 5.2. Maximizing the Margin                                  | 12:40    |
 | Study6  | 21/02/21 | 5.3. SVM with Matlab                                        | 10:11    |
 | Study6  | 21/02/21 | 5.4. Error Handling in SVM                                  | 16:05    |
-| Study7  | 21/02/28 | 5.5. Soft Margin with SVM                                   | 12:29    |
+| Study6  | 21/02/28 | 5.5. Soft Margin with SVM                                   | 12:29    |
 | Study7  | 21/02/28 | 5.6. Rethinking of SVM                                      | 10:37    |
 | Study7  | 21/02/28 | 5.7. Primal and Dual with KKT Condition                     | 15:49    |
 | Study7  | 21/02/28 | 5.8. Kernel                                                 | 9:24     |
