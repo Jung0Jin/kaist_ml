@@ -61,21 +61,21 @@
 | Study4  | 21/02/07 | 4.2. Introduction to Logistic Regression                    | 14:34    |
 | Study4  | 21/02/07 | 4.3. Logistic Regression Parameter Approximation 1          | 13:05    |
 | Study4  | 21/02/07 | 4.4. Gradient Method                                        | 22:46    |
-| Study5  | 21/02/14 | 4.5. How Gradient method works                              | 9:44     |
-| Study5  | 21/02/14 | 4.6. Logistic Regression Parameter Approximation 2          | 10:02    |
-| Study5  | 21/02/14 | 4.7. Naive Bayes to Logistic Regression                     | 24:09:00 |
-| Study5  | 21/02/14 | 4.8. Naive Bayes vs Logistic Regression                     | 8:13     |
+| Study5  | 21/02/21 | 4.5. How Gradient method works                              | 9:44     |
+| Study5  | 21/02/21 | 4.6. Logistic Regression Parameter Approximation 2          | 10:02    |
+| Study5  | 21/02/21 | 4.7. Naive Bayes to Logistic Regression                     | 24:09:00 |
+| Study5  | 21/02/21 | 4.8. Naive Bayes vs Logistic Regression                     | 8:13     |
 |         |          | Ch4. Quiz                                                   |          |
 |         |          | CHAPTER 5. Support Vector Machine                           | 1:55:51  |
-| Study6  | 21/02/21 | 5.1. Decision Boundary with Margin                          | 17:02    |
-| Study6  | 21/02/21 | 5.2. Maximizing the Margin                                  | 12:40    |
-| Study6  | 21/02/21 | 5.3. SVM with Matlab                                        | 10:11    |
-| Study6  | 21/02/21 | 5.4. Error Handling in SVM                                  | 16:05    |
+| Study6  | 21/02/28 | 5.1. Decision Boundary with Margin                          | 17:02    |
+| Study6  | 21/02/28 | 5.2. Maximizing the Margin                                  | 12:40    |
+| Study6  | 21/02/28 | 5.3. SVM with Matlab                                        | 10:11    |
+| Study6  | 21/02/28 | 5.4. Error Handling in SVM                                  | 16:05    |
 | Study6  | 21/02/28 | 5.5. Soft Margin with SVM                                   | 12:29    |
-| Study7  | 21/02/28 | 5.6. Rethinking of SVM                                      | 10:37    |
-| Study7  | 21/02/28 | 5.7. Primal and Dual with KKT Condition                     | 15:49    |
-| Study7  | 21/02/28 | 5.8. Kernel                                                 | 9:24     |
-| Study7  | 21/02/28 | 5.9. SVM with Kernel                                        | 11:34    |
+| Study7  | 21/03/07 | 5.6. Rethinking of SVM                                      | 10:37    |
+| Study7  | 21/03/07 | 5.7. Primal and Dual with KKT Condition                     | 15:49    |
+| Study7  | 21/03/07 | 5.8. Kernel                                                 | 9:24     |
+| Study7  | 21/03/07 | 5.9. SVM with Kernel                                        | 11:34    |
 |         |          | Ch5. Quiz                                                   |          |
 |         |          | CHAPTER 6. Training Testing and Regularization              | 1:42:48  |
 | Study8  | 21/03/07 | 6.1. Over-fitting and Under-fitting                         | 16:35    |
